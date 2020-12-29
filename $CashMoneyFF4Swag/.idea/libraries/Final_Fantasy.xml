@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Final Fantasy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Final Fantasy/Final Fantasy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
